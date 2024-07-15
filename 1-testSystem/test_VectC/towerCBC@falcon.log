@@ -1,0 +1,16 @@
+towerCBC Startzeit: 02.07 07:19:07,067| Typ: manu mit PID <0.88.0> registriert mit Namen towerKLCcbc.
+register um 02.07 07:19:25,512| von <10170.86.0> (<10170.86.0>): Neu registriert.
+register um 02.07 07:19:38,784| von <10172.86.0> (<10172.86.0>): Neu registriert.
+register um 02.07 07:19:42,537| von <10173.86.0> (<10173.86.0>): Neu registriert.
+multicast manuell Nachricht 1|{"beige",{1,[1]}} von <10170.97.0>erhalten.
+multicast manuell Nachricht 2|{"gruen",{3,[0,0,1]}} von <10173.97.0>erhalten.
+multicast manuell Nachricht 3|{"lila",{1,[2]}} von <10170.97.0>erhalten.
+multicast manuell an 1 - <10170.97.0> mit Nachricht Nummer 3
+multicast manuell an 1 - <10170.97.0> mit Nachricht Nummer 2
+multicast manuell an 1 - <10170.97.0> mit Nachricht Nummer 1
+multicast manuell an 2 - <10172.97.0> mit Nachricht Nummer 3
+multicast manuell an 2 - <10172.97.0> mit Nachricht Nummer 2
+multicast manuell an 2 - <10172.97.0> mit Nachricht Nummer 1
+multicast manuell an 3 - <10173.97.0> mit Nachricht Nummer 3
+multicast manuell an 3 - <10173.97.0> mit Nachricht Nummer 1
+multicast manuell an 3 - <10173.97.0> mit Nachricht Nummer 2

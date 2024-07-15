@@ -1,0 +1,44 @@
+towerCBC towerCBC@falcon von Server towerKLCcbc per ping eingebunden
+cbCast-botC@falcon-KLC Startzeit: 02.07 07:19:42,526| mit PID <0.97.0>
+Beim TowerCBC registriert:ok_registered
+DLQ>>> Nachricht "gruen" von Prozess 3 mit Zeitstempel [0,0,1] in DLQ eingefügt.
+HBQ>>> Nachricht "lila" von Prozess 1 mit Zeitstempel [2] in HBQ eingefügt.
+HBQ>>> Prüfung auf auslieferbare Nachrichten ({3,[0,0,1]}).
+HBQ>>> Vergleich {3,[0,0,1]} mit {1,[2]}.
+HBQ>>> Ergebnis aftereqVTJ mit Distanz -2. Nachricht bleibt in HBQ
+HBQ>>> Prüfung auf auslieferbare Nachrichten beendet.
+DLQ>>> Anfrage nach nicht leer erhalten: true
+HBQ>>> Nachricht "beige" von Prozess 1 mit Zeitstempel [1] in HBQ eingefügt.
+HBQ>>> Prüfung auf auslieferbare Nachrichten ({3,[0,0,1]}).
+DLQ>>> Nachricht "beige" von Prozess 1 mit Zeitstempel [1] in DLQ eingefügt.
+HBQ>>> Vergleich {3,[0,0,1]} mit {1,[1]}.
+HBQ>>> Ergebnis aftereqVTJ mit Distanz -1. Nachricht wird in DLQ verschoben
+HBQ>>> Prüfung auf auslieferbare Nachrichten beendet.
+DLQ>>> Anfrage nach nicht leer erhalten: true
+HBQ>>> Prüfung auf auslieferbare Nachrichten ({3,[0,0,1]}).
+HBQ>>> Vergleich {3,[0,0,1]} mit {1,[2]}.
+HBQ>>> Ergebnis aftereqVTJ mit Distanz -2. Nachricht bleibt in HBQ
+HBQ>>> Prüfung auf auslieferbare Nachrichten beendet.
+DLQ>>> Anfrage nach nicht leer erhalten: true
+HBQ>>> Prüfung auf auslieferbare Nachrichten ({3,[0,0,1]}).
+HBQ>>> Vergleich {3,[0,0,1]} mit {1,[2]}.
+HBQ>>> Ergebnis aftereqVTJ mit Distanz -2. Nachricht bleibt in HBQ
+HBQ>>> Prüfung auf auslieferbare Nachrichten beendet.
+DLQ>>> Nachricht "gruen" von Prozess 3 mit Zeitstempel [0,0,1] aus DLQ gelöscht (nicht blockierend).
+DLQ>>> Anfrage nach nicht leer erhalten: true
+HBQ>>> Prüfung auf auslieferbare Nachrichten ({3,[0,0,1]}).
+HBQ>>> Vergleich {3,[0,0,1]} mit {1,[2]}.
+HBQ>>> Ergebnis aftereqVTJ mit Distanz -2. Nachricht bleibt in HBQ
+HBQ>>> Prüfung auf auslieferbare Nachrichten beendet.
+DLQ>>> Nachricht "beige" von Prozess 1 mit Zeitstempel [1] aus DLQ gelöscht (nicht blockierend).
+DLQ>>> Anfrage nach nicht leer erhalten: false
+HBQ>>> Prüfung auf auslieferbare Nachrichten ({3,[1,0,1]}).
+DLQ>>> Nachricht "lila" von Prozess 1 mit Zeitstempel [2] in DLQ eingefügt.
+HBQ>>> Vergleich {3,[1,0,1]} mit {1,[2]}.
+HBQ>>> Ergebnis aftereqVTJ mit Distanz -1. Nachricht wird in DLQ verschoben
+HBQ>>> Prüfung auf auslieferbare Nachrichten beendet.
+DLQ>>> Nachricht "lila" von Prozess 1 mit Zeitstempel [2] aus DLQ gelöscht (nicht blockierend).
+DLQ>>> Anfrage nach nicht leer erhalten: false
+kill um 02.07 07:23:56,571| von <0.86.0>.
+HBQ>>> kill um 02.07 07:23:56,571| von <0.97.0> mit 0 Nachrichten in HBQ.
+DLQ>>> kill um 02.07 07:23:56,571| von <0.97.0> mit 0 Nachrichten in DLQ.
